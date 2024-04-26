@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 - Passionate Web Developer
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VuongPham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VuongPham2001/VuongPham2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
